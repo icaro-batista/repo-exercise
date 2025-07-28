@@ -1,2 +1,2 @@
 Icaro
-GitHub Foundations
+gitHub foundations
